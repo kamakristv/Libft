@@ -53,4 +53,4 @@
 * ft_lstiter
 * ft_lstmap
 
-Полный subject на английском можно посмотреть <a href="">тут</a>.
+Полный subject на английском можно посмотреть <a href="./en.subject.pdf">тут</a>.
